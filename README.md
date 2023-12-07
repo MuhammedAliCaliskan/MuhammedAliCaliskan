@@ -1,4 +1,3 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhypernet.com.tr%2Fblog-en-populer-programlama-dilleri-55&psig=AOvVaw1AfNTRlEu3lietWs-JB1j2&ust=1702076734677000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjW_Yy4_oIDFQAAAAAdAAAAABAD)
 <h1 align="center">Hi 👋, I'm Muhammed Ali Çalışkan</h1>
 <h3 align="center">A passionate frontend developer in Turkey</h3>
 
